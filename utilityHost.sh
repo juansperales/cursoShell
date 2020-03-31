@@ -1,5 +1,5 @@
 #!/bin/bash
-#Resto 1
+#Reto 1
 
 hName=`hostname`
 kernVer=`uname -a | awk '{print $3}'`
